@@ -9,4 +9,4 @@ In this project I implemented a robust image processing pipeline to detect and t
 
 Output video of the project can be found here: [Vehicle Tracking](https://youtu.be/KNuxyRJlO1E) 
 
-See detailed report in "Writeup_report.pdf" [writeup report] (https://github.com/ranjeethks/Vehicle-tracking/blob/master/Writeup_report.pdf)
+See detailed report in "Writeup_report.pdf" [writeup report](https://github.com/ranjeethks/Vehicle-tracking/blob/master/Writeup_report.pdf)
